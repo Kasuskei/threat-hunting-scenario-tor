@@ -75,8 +75,6 @@ DeviceNetworkEvents
 ## Chronological Event Timeline 
 
 Download & Installation
-2025-11-23 06:21:08 – File tor-browser-windows-x86_64-portable-15.0.2.exe created in C:\Users\labuser\Downloads\.
-2025-11-23 06:21:21 – Same installer file deleted from Downloads folder.
 2025-11-23 06:21:22 – Process tor-browser-windows-x86_64-portable-15.0.2.exe executed from Downloads folder.
 2025-11-23 06:28:26 – Silent installation triggered: "tor-browser-windows-x86_64-portable-15.0.2.exe /S".
 Tor Browser Installation Artifacts
