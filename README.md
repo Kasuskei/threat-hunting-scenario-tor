@@ -1,4 +1,4 @@
-![image alt] (https://github.com/Kasuskei/threat-hunting-scenario-tor/blob/171fc7632e41e882efd3730415eda29eacc8badd/IMG_8395.jpg)
+![image alt](https://github.com/Kasuskei/threat-hunting-scenario-tor/blob/171fc7632e41e882efd3730415eda29eacc8badd/IMG_8395.jpg)
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation]()
