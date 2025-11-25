@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Kasuskei/threat-hunting-scenario-tor/main/IMG_8395.jpg" alt="detective following tor onion" width="300"/>
+<img src="https://raw.githubusercontent.com/Kasuskei/threat-hunting-scenario-tor/main/IMG_8395.jpg" alt="detective following tor onion" width="200"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/Kasuskei/scenario-creation/blob/main/README.md)
