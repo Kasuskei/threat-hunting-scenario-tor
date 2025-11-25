@@ -1,4 +1,4 @@
-<img width="400" src="[https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee](https://github.com/Kasuskei/threat-hunting-scenario-tor/blob/main/IMG_8395.jpg)" />
+![image alt] (https://github.com/Kasuskei/threat-hunting-scenario-tor/blob/171fc7632e41e882efd3730415eda29eacc8badd/IMG_8395.jpg)
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation]()
