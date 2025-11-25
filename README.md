@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Kasuskei/threat-hunting-scenario-tor/main/IMG_8395.jpg" alt="detective following tor onion" width="300"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation]()
+- [Scenario Creation](https://github.com/Kasuskei/scenario-creation/blob/main/README.md)
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
